@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+librosa
+soundfile
+pydub
+pyloudnorm
+tqdm
+scikit-learn
+torch
+captum
+parselmouth
+zennit-crp
+opensmile
+csv
