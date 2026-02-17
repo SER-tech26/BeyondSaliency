@@ -2,7 +2,7 @@
 
 # BEYOND SALIENCY Explanation
 
-![model_image](src/XAI/method.jpg)
+![model_image](src/XAI/method.gif)
 </div>
 
 Beyond saliency: Enhancing explanation of speech emotion recognition with expert-referenced acoustic cues
